@@ -1,1 +1,1 @@
-# webtoon_copytoon
+# webtoon_daum
